@@ -9,5 +9,4 @@ int main(){
     else if(a%k == 0 && b%k != 0) cout<<"Memo";
     else if(a%k != 0 && b%k == 0) cout<<"Momo";
     else cout<<"No One";
-    
 }
