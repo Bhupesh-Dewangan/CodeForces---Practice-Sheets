@@ -2,8 +2,7 @@
 using namespace std;
  
 int main() {
-    ios::sync_with_stdio(false);
-    cin.tie(nullptr);
+
     long long K, S;
     if (!(cin >> K >> S)) return 0;
     
