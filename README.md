@@ -1,4 +1,4 @@
-# CodeForces---Practice-Sheets
+# CodeForces Practice-Sheets Solutions
 
 This repository contains a collection of Codeforces practice problems organized by sheets. Each folder/file includes:
 
