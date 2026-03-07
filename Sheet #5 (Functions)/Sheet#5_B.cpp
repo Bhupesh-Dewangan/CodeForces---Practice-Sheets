@@ -1,15 +1,18 @@
 #include <iostream>
 using namespace std;
  
-int add(int a,int b){
-    return a+b;
+void print(int n){
+    for(int i=1; i<=n; i++){
+        cout<<i;
+        if(i != n) cout<<" ";
+    }
 }
  
 int main() {
-    int x,y;
-    cin>>x>>y;
+    int x;
+    cin>>x;
     
-    cout<<add(x,y);
+    print(x);
     
     return 0;
 }
